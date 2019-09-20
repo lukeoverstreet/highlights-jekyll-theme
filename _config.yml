@@ -1,13 +1,13 @@
 # Site settings
 title: Luke Overstreet | Media & Communications Specialist
-email: youremailaddress@gmail.com
+email: luke.overstreet@outlook.com
 description: Professional photography, videography, graphic design, and social media services in the greater Quad City area.
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
-facebook_url: https://facebook.com
+facebook_url:
 github_url:
 gitlab_url: 
 googleplus_url: 
