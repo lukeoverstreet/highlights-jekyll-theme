@@ -3,7 +3,7 @@ title: Luke Overstreet | Media & Communications Specialist
 email: luke.overstreet@outlook.com
 description: Professional photography, videography, graphic design, and social media services in the greater Quad City area.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "lukeoverstreet.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
 
