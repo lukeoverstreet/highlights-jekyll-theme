@@ -7,11 +7,12 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/Overstreet-Media-Design-106220174517967
 github_url:
 gitlab_url: 
 googleplus_url: 
 instagram_url: https://www.instagram.com/lukeoverstreet/
+youtube_url: https://www.youtube.com/channel/UC9_YUpIWq-r590YT_9csUyg
 linkedin_url: https://www.linkedin.com/in/lukeoverstreet/
 pinterest_url:
 slack_url:
